@@ -1,7 +1,13 @@
 # bmi_calculator.py
+
 This is my second task in Oasis: a Python BMI Calculator. The program asks users to enter their name, age, weight, and height, calculates the Body Mass Index (BMI), and classifies them as underweight, normal, overweight, or obese. It helped me practice Python basics, variables, user input, calculations, and conditional statements.
+
 The application works through a simple command-line interface where users provide their details. After receiving the input, the program applies the BMI formula to calculate the Body Mass Index. Based on the calculated value, the program uses conditional statements to determine the BMI category and displays the result to the user.
+
 While developing this project, I focused on implementing clean and simple Python logic so that beginners can easily understand the code. The project demonstrates how basic programming concepts can be used to solve real-life problems. It also helped me improve my understanding of Python syntax, logical thinking, and step-by-step problem solving.
+
 Overall, this project is a beginner-friendly example of how Python can be used to build small but useful applications that interact with users and perform practical calculations.
+
 To run this project, first install Python on your system. Download or clone this repository and open the project file in any Python editor such as VS Code or IDLE. Run the program and enter the required details like name, age, weight, and height when prompted. The program will then calculate the BMI and display the BMI category based on the result.
+
 Author: Saadiya Sabreen – Python Enthusiast and Beginner Developer
